@@ -53,14 +53,7 @@
     "Valet": ["iOS"],
     "wire": ["Android", "Java", "Kotlin"],
     "workflow": ["Android", "iOS", "Kotlin"]
-    },
-  {
-    "name": ["Your Telegram Name"],
-    "phone_no": ["Phn.no"],
-    "email": ["email"],
-    "subject": ["Topic"],
-    "message": ["Queries"]
-  },
+    }
   "custom": [
     {
       "name": "es6-module-transpiler",
