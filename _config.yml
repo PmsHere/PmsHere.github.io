@@ -1,4 +1,4 @@
 auto: true
 include: [".well-known"]
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker
